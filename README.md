@@ -8,3 +8,4 @@
 1. Install the UV (https://docs.astral.sh/uv/getting-started/installation)
 2. Run `uv sync`
 3. Run `uv run math_client.py`
+4. 1
